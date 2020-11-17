@@ -4,7 +4,7 @@ At TripleBlind™ we offer digital privacy as a service. Our suite of tools enab
 
 ### Links
 * [Company website](https://tripleblind.ai)
-* [Development repos](https://github.com/tripleblinai)
+* [Development repos](https://github.com/tripleblindai)
 
 -------------------------------------------------
 
